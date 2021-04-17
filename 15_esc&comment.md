@@ -10,4 +10,6 @@
 
 
 
-[comment] <> (This is a comment)
+[comment]: <> (This is a comment)
+[//]: <> (This is a comment)
+[//]: # (This is a comment)
